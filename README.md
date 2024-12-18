@@ -1,8 +1,24 @@
-# React + Vite
+# **React Image Selector**
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
-Currently, two official plugins are available:
+This is a React project showcasing an **interactive image selector**. Users can click on an image from a gallery to view a larger version below the gallery.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
+
+## **Live Demo**
+
+Check out the live project here:  
+[**Live Demo**](https://react-image-gallary-three.vercel.app/)
+
+## **Features**
+
+- **Dynamic Image Gallery**: Select an image and display it dynamically.
+- **Modular Components**: The app uses reusable components (`Card` and `Component`).
+- **Clean UI**: Styled using **CSS Modules**.
+
+---
+
+## **Technologies Used**
+
+- **React.js**: For building the interactive UI.
+- **CSS Modules**: For scoped styling.
