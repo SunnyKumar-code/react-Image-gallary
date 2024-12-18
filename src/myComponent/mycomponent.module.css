@@ -1,0 +1,19 @@
+.mainDiv{
+    width: 100%;
+}
+.CardDiv{
+    width: 60%;
+    margin: 0 auto;
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    gap: 20px;
+}
+p{
+    text-align: center;
+}
+.selectedImage{
+ display: flex;
+ flex-direction: column;
+ align-items:center ;
+}
